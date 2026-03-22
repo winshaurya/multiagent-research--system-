@@ -2,7 +2,7 @@
 
 A production-grade AI research assistant built with **CrewAI** in Python.  
 Enter any research topic and receive a structured report with accurate citations,
-extracted evidence, and verified references — similar to Perplexity Deep Research
+extracted evidence, and verified references  similar to Perplexity Deep Research
 or Elicit, but fully open and customisable.
 
 ---
@@ -33,7 +33,7 @@ Extractor Agent    → [ { metrics, datasets, key_findings, quotes } ]
 Synthesizer Agent  → Final Markdown Report
 ```
 
-All agents communicate via **structured JSON only** — never raw documents.
+All agents communicate via **structured JSON only**  never raw documents.
 
 ---
 
